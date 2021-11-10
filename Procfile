@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* heroku.App
+web: java -jar target/heroku-hw28-1.0-SNAPSHOT.jar
