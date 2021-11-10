@@ -1,1 +1,1 @@
-web: java -jar target/heroku-hw28-1.0-SNAPSHOT.jar
+web: java -jar target/heroku-hw28-1.0-SNAPSHOT-jar-with-dependencies.jar
